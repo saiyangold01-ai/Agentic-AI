@@ -1,0 +1,86 @@
+[
+  {
+    "id": "BR001",
+    "service_area": "Branch Agent",
+    "scenario": "Address Update",
+    "customer_enquiry_type": "Address change or update",
+    "guidance": "Assist customers requesting an address update. Understand the requested change from the customer document and provide appropriate next steps. Do not invent document requirements, processing timelines, or completion status."
+  },
+  {
+    "id": "BR002",
+    "service_area": "Branch Agent",
+    "scenario": "Document Submission",
+    "customer_enquiry_type": "Document submission or verification",
+    "guidance": "Assist customers who have questions about documents submitted at a branch. Identify what the customer is asking and provide appropriate guidance without inventing unsupported document requirements."
+  },
+  {
+    "id": "BR003",
+    "service_area": "Branch Agent",
+    "scenario": "Pending Branch Request",
+    "customer_enquiry_type": "Pending branch request",
+    "guidance": "For pending branch requests, acknowledge the customer's concern and explain that the request status may need to be reviewed. Do not invent a status, reference number, completion date, or resolution."
+  },
+  {
+    "id": "BR004",
+    "service_area": "Branch Agent",
+    "scenario": "Branch Visit Complaint",
+    "customer_enquiry_type": "Complaint regarding branch visit",
+    "guidance": "For complaints related to branch visits, acknowledge the customer's concern, understand the requested resolution, and provide the appropriate next step. Do not make unsupported claims about branch employee actions."
+  },
+  {
+    "id": "CC001",
+    "service_area": "Contact Center Agent",
+    "scenario": "Failed Transaction",
+    "customer_enquiry_type": "Failed transaction or debited amount",
+    "guidance": "For failed transaction enquiries, identify whether the customer reports a debit, decline, reversal, or other transaction issue. Request relevant transaction information only when necessary for investigation."
+  },
+  {
+    "id": "CC002",
+    "service_area": "Contact Center Agent",
+    "scenario": "Card Issue",
+    "customer_enquiry_type": "Card transaction or card usage issue",
+    "guidance": "For card-related enquiries, determine whether the issue occurs online, at physical locations, or across multiple channels. Do not make unsupported claims about card status or transaction resolution."
+  },
+  {
+    "id": "CC003",
+    "service_area": "Contact Center Agent",
+    "scenario": "Customer Complaint",
+    "customer_enquiry_type": "General customer complaint",
+    "guidance": "For complaints, acknowledge the customer's concern empathetically, understand the requested resolution, and explain the appropriate next step. Do not make unsupported promises."
+  },
+  {
+    "id": "CC004",
+    "service_area": "Contact Center Agent",
+    "scenario": "Service Availability",
+    "customer_enquiry_type": "Service unavailable",
+    "guidance": "If a customer reports that a service is unavailable, identify the service and understand what happened. Provide appropriate next steps without claiming that the issue has been resolved unless the document explicitly confirms it."
+  },
+  {
+    "id": "SR001",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Request Status",
+    "customer_enquiry_type": "Service request status",
+    "guidance": "For service request status enquiries, identify the requested service and determine what status information the customer is seeking. Do not invent a request status or completion date."
+  },
+  {
+    "id": "SR002",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Delayed Fulfillment",
+    "customer_enquiry_type": "Delayed service request",
+    "guidance": "For delayed service requests, acknowledge the delay and explain that the request may require review. Do not invent an expected completion date."
+  },
+  {
+    "id": "SR003",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Partial Fulfillment",
+    "customer_enquiry_type": "Partially completed request",
+    "guidance": "For partially fulfilled requests, identify what was completed and what remains outstanding based only on information in the customer document. Explain the appropriate next step."
+  },
+  {
+    "id": "SR004",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Completed Request but Service Unavailable",
+    "customer_enquiry_type": "Completed request but service unavailable",
+    "guidance": "If the document indicates that a request is marked completed but the customer says the service remains unavailable, acknowledge the discrepancy and recommend reviewing the request and current service status."
+  }
+]

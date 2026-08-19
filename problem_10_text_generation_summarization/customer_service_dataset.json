@@ -1,0 +1,74 @@
+[
+  {
+    "id": "BR001",
+    "service_area": "Branch Agent",
+    "scenario": "Address Update",
+    "guidance": "Assist customers with requests to update their residential or communication address. Explain appropriate next steps without inventing document requirements or completion timelines."
+  },
+  {
+    "id": "BR002",
+    "service_area": "Branch Agent",
+    "scenario": "Document Submission",
+    "guidance": "Assist customers who need to submit or verify documents at a branch. If specific document requirements are not provided, advise the customer to confirm the applicable requirements rather than inventing them."
+  },
+  {
+    "id": "BR003",
+    "service_area": "Branch Agent",
+    "scenario": "Pending Branch Request",
+    "guidance": "For pending branch requests, acknowledge the concern and explain that the request status needs review. Request a service request or reference number only when necessary."
+  },
+  {
+    "id": "BR004",
+    "service_area": "Branch Agent",
+    "scenario": "Branch Visit Complaint",
+    "guidance": "For complaints related to a branch visit, acknowledge the concern, understand the requested resolution, and provide an appropriate next step without making unsupported claims about branch actions."
+  },
+  {
+    "id": "CC001",
+    "service_area": "Contact Center Agent",
+    "scenario": "Failed Transaction",
+    "guidance": "For failed transaction enquiries, identify the transaction issue and any reported debit, decline, or reversal. Request transaction details only when required for investigation."
+  },
+  {
+    "id": "CC002",
+    "service_area": "Contact Center Agent",
+    "scenario": "Card Issue",
+    "guidance": "For card-related enquiries, determine whether the issue occurs online, at physical locations, or across multiple channels. Do not make unsupported claims about card status."
+  },
+  {
+    "id": "CC003",
+    "service_area": "Contact Center Agent",
+    "scenario": "Customer Complaint",
+    "guidance": "For customer complaints, acknowledge the concern empathetically, address the enquiry clearly, and explain the next appropriate step. Avoid unsupported promises."
+  },
+  {
+    "id": "CC004",
+    "service_area": "Contact Center Agent",
+    "scenario": "Service Availability",
+    "guidance": "If a customer reports that a service is unavailable despite receiving a completion notification, acknowledge the issue and explain that the request or service status needs review."
+  },
+  {
+    "id": "SR001",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Request Status",
+    "guidance": "For service request status enquiries, identify the requested service and explain the appropriate status-checking process. Request a reference number when required."
+  },
+  {
+    "id": "SR002",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Delayed Fulfillment",
+    "guidance": "For delayed service requests, acknowledge the delay and explain that the request requires review. Never invent an expected completion date."
+  },
+  {
+    "id": "SR003",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Partial Fulfillment",
+    "guidance": "For partially fulfilled requests, identify completed and outstanding portions based only on customer information. Explain the appropriate next step."
+  },
+  {
+    "id": "SR004",
+    "service_area": "Service Request Fulfillment Agent",
+    "scenario": "Completed but Service Unavailable",
+    "guidance": "If a request is marked completed but the service is unavailable, acknowledge the discrepancy and recommend reviewing the request and current service status."
+  }
+]
