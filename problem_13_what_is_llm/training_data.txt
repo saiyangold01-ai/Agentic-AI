@@ -1,0 +1,207 @@
+the customer requested a new debit card
+the customer requested a replacement debit card
+the customer requested a new debit card
+the customer requested a replacement debit card
+the customer requested a new credit card
+the customer requested a replacement credit card
+the customer requested a new cheque book
+the customer requested a replacement cheque book
+the customer requested a new passbook
+the customer requested a replacement passbook
+the customer requested an account statement
+the customer requested a bank statement
+the customer requested a service request
+the customer requested a transaction history
+the customer requested a new account
+the customer requested an address update
+the customer requested a mobile number update
+the customer requested an email update
+the customer requested a nominee update
+the customer requested a profile update
+the branch staff created a service request
+the branch staff created a service request
+the branch staff created a customer request
+the branch staff created a service request
+the branch staff created a debit card request
+the branch staff created a credit card request
+the branch staff created an address update request
+the branch staff created a profile update request
+the branch staff created a cheque book request
+the branch staff created a passbook request
+the branch staff verified the customer identity
+the branch staff verified the customer documents
+the branch staff verified the account details
+the branch staff verified the mobile number
+the branch staff verified the customer signature
+the branch staff checked the account status
+the branch staff checked the service request
+the branch staff checked the transaction details
+the branch staff checked the customer profile
+the branch staff checked the card status
+the contact center agent created a service request
+the contact center agent created a service request
+the contact center agent created a customer request
+the contact center agent created a service request
+the contact center agent raised a service request
+the contact center agent raised a complaint
+the contact center agent verified the customer identity
+the contact center agent verified the account details
+the contact center agent verified the mobile number
+the contact center agent checked the request status
+the contact center agent checked the account status
+the contact center agent checked the card status
+the contact center agent checked the transaction details
+the contact center agent updated the customer profile
+the contact center agent updated the service request
+the contact center agent explained the process
+the contact center agent explained the service request
+the contact center agent provided the reference number
+the contact center agent provided the request status
+the contact center agent transferred the call
+the service request was submitted successfully
+the service request was submitted successfully
+the service request was submitted successfully
+the service request was created successfully
+the service request was created successfully
+the service request was assigned to branch
+the service request was assigned to branch
+the service request was assigned to an agent
+the service request was assigned to an agent
+the service request was sent for verification
+the service request was sent for approval
+the service request was sent for processing
+the service request was completed successfully
+the service request was completed successfully
+the service request was closed successfully
+the service request was closed successfully
+the service request is currently pending
+the service request is currently pending
+the service request is under review
+the service request is under review
+the service request requires additional documents
+the service request requires customer verification
+the customer service request is pending
+the customer service request is completed
+the customer service request is closed
+the customer service request is under review
+the customer service request requires approval
+the customer service request requires verification
+the customer service request was submitted successfully
+the customer service request was created successfully
+the customer service request was assigned to an agent
+the customer service request was assigned to branch
+the debit card request was submitted successfully
+the debit card request was submitted successfully
+the debit card request was created successfully
+the debit card request was sent for processing
+the debit card request is currently pending
+the debit card request is currently pending
+the debit card request requires customer verification
+the debit card request requires additional documents
+the debit card request was approved successfully
+the debit card request was completed successfully
+the credit card request was submitted successfully
+the credit card request was submitted successfully
+the credit card request was created successfully
+the credit card request was sent for processing
+the credit card request is currently pending
+the credit card request is currently pending
+the credit card request requires customer verification
+the credit card request requires additional documents
+the credit card request was approved successfully
+the credit card request was completed successfully
+the cheque book request was submitted successfully
+the cheque book request was submitted successfully
+the cheque book request was created successfully
+the cheque book request is currently pending
+the cheque book request is currently pending
+the cheque book request was sent for processing
+the cheque book request was completed successfully
+the cheque book request was dispatched successfully
+the passbook request was submitted successfully
+the passbook request was submitted successfully
+the passbook request was created successfully
+the passbook request is currently pending
+the passbook request was sent for processing
+the passbook request was completed successfully
+the passbook request was dispatched successfully
+the address update request was submitted successfully
+the address update request was submitted successfully
+the address update request was created successfully
+the address update request is currently pending
+the address update request requires additional documents
+the address update request requires customer verification
+the address update request was sent for approval
+the address update request was completed successfully
+the mobile number update request was submitted successfully
+the mobile number update request was submitted successfully
+the mobile number update request was created successfully
+the mobile number update request requires customer verification
+the mobile number update request is currently pending
+the mobile number update request was sent for approval
+the mobile number update request was completed successfully
+the email update request was submitted successfully
+the email update request was submitted successfully
+the email update request was created successfully
+the email update request requires customer verification
+the email update request is currently pending
+the email update request was sent for approval
+the email update request was completed successfully
+the account statement request was submitted successfully
+the account statement request was submitted successfully
+the account statement request was created successfully
+the account statement request is currently pending
+the account statement request was sent for processing
+the account statement request was completed successfully
+the account statement request was dispatched successfully
+the customer identity was verified successfully
+the customer identity was verified successfully
+the customer identity was verified successfully
+the customer documents were verified successfully
+the customer documents were verified successfully
+the account details were verified successfully
+the account details were verified successfully
+the customer profile was updated successfully
+the customer profile was updated successfully
+the transaction details were verified successfully
+the transaction details were verified successfully
+the request status was checked successfully
+the request status was checked successfully
+the request status was updated successfully
+the request status was updated successfully
+the customer was informed about the request
+the customer was informed about the status
+the customer was informed about the process
+the customer was provided the reference number
+the customer was provided the expected timeline
+the customer was provided the required documents
+the customer was advised to visit the branch
+the customer was advised to contact the call center
+the customer was advised to provide additional documents
+the customer was asked to complete verification
+the customer was asked to confirm the request
+the customer was asked to provide identification
+the agent provided the service request number
+the agent provided the service request number
+the agent provided the expected completion date
+the agent provided the expected completion date
+the agent checked the service request status
+the agent checked the service request status
+the agent updated the service request status
+the agent updated the service request status
+the agent escalated the service request
+the agent escalated the customer complaint
+the agent resolved the customer request
+the agent resolved the service request
+the agent closed the service request
+the agent closed the customer complaint
+the branch manager approved the service request
+the branch manager approved the service request
+the branch manager reviewed the customer request
+the branch manager reviewed the service request
+the branch manager approved the account update
+the branch manager approved the address update
+the branch manager approved the profile update
+the branch manager rejected the service request
+the branch manager requested additional documents
+the branch manager requested customer verification
